@@ -1,0 +1,20 @@
+{
+  "name": "Xiangshan–Xinyi / 象山・信義區",
+  "source": "https://build.protomaps.com/20261115.pmtiles",
+  "documentation": "https://docs.protomaps.com/basemaps/downloads",
+  "version": "4.15.2",
+  "osmSnapshot": "2026-11-15T04:00:00Z",
+  "bounds": [
+    121.545,
+    25.008,
+    121.602,
+    25.047
+  ],
+  "minZoom": 0,
+  "maxZoom": 15,
+  "extraction": "go-pmtiles 1.31.2 extract --bbox=121.545,25.008,121.602,25.047 --maxzoom=15 --download-threads=2",
+  "sha256": "8d253f7c5532d989d59f4fbfae4c11c487776476232a17199037ee3ebc999002",
+  "bytes": 4488894,
+  "license": "Protomaps ODbL Produced Work; OpenStreetMap attribution required; Natural Earth public domain",
+  "attribution": "© OpenStreetMap contributors · openstreetmap.org/copyright · Natural Earth · Protomaps"
+}

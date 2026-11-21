@@ -1,0 +1,410 @@
+Trail Memory recording library
+
+All 100 recordings: Kevin MacLeod (incompetech.com).
+Licensed under Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+Source catalog: https://incompetech.com/music/royalty-free/music.html
+Composer credit instructions: https://www.incompetech.com/music/royalty-free/faq.html
+
+Bundled files are 65-second excerpts, loudness-normalized, stereo MP3 transcodes with fades. No endorsement by the composer is implied. Credit the selected title and artist when distributing rendered movies. The app adds this credit to the final five seconds. Imported user music is not covered by this license.
+
+000: Morning — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300003
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+001: Almost Bliss — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900015
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+002: Midnight Tale — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900004
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+003: Carefree — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+004: Life of Riley — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400054
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+005: Loopster — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800007
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+006: Getting it Done — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800004
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+007: Werq — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800005
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+008: Wallpaper — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100843
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+009: Realizer — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900024
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+010: Beachfront Celebration — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200022
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+011: Moonlight Beach — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000005
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+012: Island Meet and Greet — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000004
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+013: Tiki Bar Mixer — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000006
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+014: Paradise Found — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300000
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+015: Inspired — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600022
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+016: Sunshine — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100517
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+017: Evening — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300002
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+018: Angel Share — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700021
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+019: Cold Sober — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700025
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+020: Night in Venice — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900056
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+021: Late Night Radio — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100003
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+022: Miami Viceroy — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700019
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+023: Laser Groove — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700017
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+024: Aerosol of my Love — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000020
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+025: Cold Funk — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100499
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+026: Funkorama — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100474
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+027: Feelin Good — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100475
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+028: Funky Boxstep — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100011
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+029: Boogie Party — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2200002
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+030: Clear Waters — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100290
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+031: Continue Life — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100282
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+032: Friday Morning — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100224
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+033: Two Together — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100031
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+034: Light Awash — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100175
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+035: Upbeat Forever — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500063
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+036: Raving Energy — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900013
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+037: Beauty Flow — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900008
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+038: Tech Live — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700030
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+039: Wepa — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700020
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+040: Almost New — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800008
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+041: Wholesome — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900022
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+042: Fretless — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500074
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+043: Happy Alley — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100482
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+044: There is Romance — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100044
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+045: Equatorial Complex — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300008
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+046: Mesmerizing Galaxy — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300011
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+047: Galactic Rap — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300009
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+048: Dream Catcher — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800019
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+049: Northern Glade — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800017
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+050: Laid Back Guitars — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100181
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+051: Somewhere Sunny (ver 2) — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100567
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+052: Revival — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100476
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+053: Bummin on Tremelo — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700032
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+054: Sunday Dub — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700031
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+055: Jazz Brunch — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700074
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+056: Apero Hour — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700070
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+057: Bossa Antigua — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700069
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+058: Backbay Lounge — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700068
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+059: Study And Relax — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900030
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+060: Surf Shimmy — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700018
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+061: Funin and Sunin — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700011
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+062: Shaving Mirror — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700029
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+063: Cloud Dancer — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300007
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+064: Newer Wave — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2000024
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+065: Ethereal Relaxation — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100031
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+066: Ancient Winds — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900043
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+067: Ebbs and Flows — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900034
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+068: Elf Meditation — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900035
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+069: Skye Cuillin — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100346
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+070: Monkeys Spinning Monkeys — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+071: Village Consort — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700007
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+072: Galway — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700016
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+073: Nothing Broken — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100509
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+074: Sapphire Isle — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100087
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+075: Midsummer Sky — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100158
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+076: Luminous Rain — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100169
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+077: Eternal Hope — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100238
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+078: Pride — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100106
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+079: Simple Duet — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100074
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+080: Arroz Con Pollo — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1800011
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+081: Verano Sensual — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900020
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+082: Samba Isobel — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700071
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+083: Del Rio Bravo — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900031
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+084: Modern Jazz Samba — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100153
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+085: The Britons — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2600004
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+086: Crinoline Dreams — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700073
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+087: Valse Gymnopedie — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100012
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+088: Starting Out Waltz Allegretto — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100023
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+089: Devonshire Waltz Moderato — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100016
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+090: River Flute — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1900005
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+091: River Fire — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700055
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+092: Silver Flame — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700058
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+093: Truth in the Stones — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700059
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+094: That Zen Moment — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2400001
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+095: How it Begins — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100200
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+096: Enter the Party — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100240
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+097: Ether Disco — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100237
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+098: Stringed Disco — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100059
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+099: Style Funk — Kevin MacLeod
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100058
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+

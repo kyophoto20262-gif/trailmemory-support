@@ -1,0 +1,32 @@
+{
+  "name": "象山與臺北周邊立體地形",
+  "file": "xiangshan-terrain.pmtiles",
+  "source": "https://download.mapterhorn.com/planet.pmtiles",
+  "extractedAt": "2026-11-16",
+  "bounds": [
+    121.35,
+    24.85,
+    121.8,
+    25.23
+  ],
+  "minZoom": 0,
+  "maxZoom": 12,
+  "bytes": 6017367,
+  "sha256": "26dd4b795bebd961b5448a2947c18b9b390828a8e8faa02b3e6cb1d8b4872cb9",
+  "command": "pmtiles extract https://download.mapterhorn.com/planet.pmtiles output.pmtiles --bbox=121.35,24.85,121.8,25.23 --maxzoom=12 --download-threads=2",
+  "note": "Metadata adds encoding and required source notices; elevation pixels unchanged. The wider terrain extent supplies neighboring tiles at capture boundaries.",
+  "sources": [
+    {
+      "id": "aatw",
+      "notice": "內政部地政司 · 2024年版全臺灣20公尺網格數值地形模型DTM資料。依政府資料開放授權條款第1版使用，已轉換為立體地形圖磚。",
+      "url": "https://data.gov.tw/dataset/169807",
+      "licenseUrl": "https://data.gov.tw/license"
+    },
+    {
+      "id": "glo30",
+      "notice": "Produced using Copernicus WorldDEM-30 © DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under COPERNICUS by the European Union and ESA; all rights reserved.",
+      "url": "https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM",
+      "licenseUrl": "https://mapterhorn.com/attribution/"
+    }
+  ]
+}
